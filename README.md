@@ -10,4 +10,4 @@ Moreover, a word file is attached contains a brief installision process
 Another end effector for the robort is attached as STL file in End effector folder 
 
 ---
-Extra DOF for the robort is attached as STL file in New link folder 
+Extra DOF for the robort is attached as STL file in  End effector folder 
