@@ -7,7 +7,9 @@ These files can be viewed via any 3D software such as solidwork, cinema4D , tink
 Moreover, a word file is attached contains a brief installation process  
 
 ---
+**Task 2.0**
 Another end effector for the robort is attached as STL file in End effector folder 
 
 ---
+**Task 3.0**
 Extra DOF for the robort is attached as STL file in  End effector folder 
